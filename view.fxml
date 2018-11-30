@@ -20,7 +20,7 @@
             <Image url="@rechteck.png" />
          </image>
       </ImageView>
-      <Text layoutX="44.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rechtwinkliges Dreieck">
+      <Text layoutX="44.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rechteck">
          <font>
             <Font size="24.0" />
          </font>
